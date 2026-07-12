@@ -7,3 +7,4 @@
 - 2026-07-08: Verificação de saldo agregado
 - 2026-07-09: Verificação de saldo agregado
 - 2026-07-10: Verificação de saldo agregado
+- 2026-07-12: manutencao
