@@ -28,3 +28,4 @@ module.exports.descricao = "Prova de reserva legível por humano, sem exigir que
 // 2026-08-05T11:15:00Z manutencao
 // 2026-08-07T09:56:00Z manutencao
 // 2026-08-07T11:09:00Z manutencao
+// 2026-08-11T14:59:00Z manutencao
